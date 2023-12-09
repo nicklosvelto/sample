@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:gx="http://www.google.com/kml/ext/2.2"
+     xmlns:kml="http://www.opengis.net/kml/2.2">
+   <Document>
+      <name>miniEUSO_v10</name>
+      <Folder>
+         <name>uv_map</name>
+         <id>uv_map</id>
+         <GroundOverlay id="kml_overlaytpc0acf20f_b409_489b_9826_bb5b1c74859c">
+            <name>kml_overlay</name>
+            <color>FFFFFFFF</color>
+            <visibility>1</visibility>
+            <description/>
+            <altitude>1</altitude>
+            <altitudeMode>clampToGround</altitudeMode>
+            <drawOrder>0</drawOrder>
+            <LatLonBox>
+               <north>59.97499999999999</north>
+               <south>-60.025</south>
+               <east>359.975</east>
+               <west>-0.02499999999999999</west>
+               <rotation>0</rotation>
+            </LatLonBox>
+            <Icon>
+               <href>../img/World_kmz.png</href>
+               <viewBoundScale>1</viewBoundScale>
+            </Icon>
+         </GroundOverlay>
+         <ScreenOverlay> <name> Colorbar </name> <Icon> <href>../img/colorbar_100.png</href> </Icon> <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/> <screenXY x="100" y="100" xunits="pixels" yunits="pixels"/> <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/> <size x="0" y="0" xunits="pixels" yunits="pixels"/> </ScreenOverlay>
+      </Folder>
+   </Document>
+</kml>
