@@ -23,11 +23,11 @@
                <rotation>0</rotation>
             </LatLonBox>
             <Icon>
-               <href>../img/World_kmz.png</href>
+               <href>World_kmz.png</href>
                <viewBoundScale>1</viewBoundScale>
             </Icon>
          </GroundOverlay>
-         <ScreenOverlay> <name> Colorbar </name> <Icon> <href>../img/colorbar_100.png</href> </Icon> <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/> <screenXY x="100" y="100" xunits="pixels" yunits="pixels"/> <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/> <size x="0" y="0" xunits="pixels" yunits="pixels"/> </ScreenOverlay>
+         <ScreenOverlay> <name> Colorbar </name> <Icon> <href>colorbar_100.png</href> </Icon> <overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/> <screenXY x="100" y="100" xunits="pixels" yunits="pixels"/> <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/> <size x="0" y="0" xunits="pixels" yunits="pixels"/> </ScreenOverlay>
       </Folder>
    </Document>
 </kml>
